@@ -27,7 +27,7 @@ function average(list)
 
 //get the list of numbers from the api
 //first we get the numbers along with the id form
-//then in loclahost:9876 get the output
+
 const get_Numbers = async(type) => 
 {
     try 
